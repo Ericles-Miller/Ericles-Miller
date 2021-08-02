@@ -5,7 +5,8 @@
 - 🔭 Profissão: Estagiário na área de programação (front end, back and, developer)
 - 🌱 Estudando atualmente: Django, Flask, React, Flutter e Algoritmos Evolutivos, além das disciplinas da faculdade
 - 👯 Linguagens mais familares: Python, C, PHP, JavaScript
-- 😄 Pronouns: Eu, Ericles, Miller
+- 😄 Sobre: Sou técnico em informática e acadêmico de Engenharia de Sistemas na Universidade Estadual de Montes Claros (Unimontes). Possuo conhecimento em banco de dados, linguagens de programação, design gráfico, edições de fotos e vídeos, matemáticos e em circuitos elétricos. Além disso, tenho projetos e ideias já desenvolvidos em sala de aula, por trabalhos acadêmicos, projetos do trabalho referente ao estágio e iniciações científicas.
+Eu amo o que faço e a engenharia me desafia a subir níveis todos os dias, me confrontando diariamente.
 - ⚡ Estudante de Engenharia de Sistemas(Unimontes)
 
  <div>
