@@ -1,4 +1,4 @@
-### Olá eu sou o Éricles Miller! 👋
+### Olá, eu sou o Éricles Miller! 👋
 
 
 
