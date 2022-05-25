@@ -3,11 +3,16 @@
 
 
 - 🔭 Profissão: Estagiário na área de programação (front end, back and, developer)
-- 🌱 Estudando atualmente: DataScienc(área que desejo me especializar), Machine Learning e Algoritmos Evolutivos,Otimização Linear,PowerBi DataScience, lingua Inglesa além das disciplinas da faculdade
-- 👯 Linguagens mais familares: Python, C, PHP, JavaScript
+- 🌱 Estudando atualmente: DataScienc(área que desejo me especializar), Machine Learning e Algoritmos Evolutivos,PowerBi DataScience,lingua Inglesa além das disciplinas da faculdade
+- 👯 Linguagens mais familares: Python, C, JavaScript
 - 😄 Sobre: Sou técnico em informática e acadêmico de Engenharia de Sistemas na Universidade Estadual de Montes Claros (Unimontes). Possuo conhecimento em banco de dados, linguagens de programação, design gráfico, edições de fotos e vídeos, matemáticos e em circuitos elétricos. Além disso, tenho projetos e ideias já desenvolvidos em sala de aula por trabalhos acadêmicos, projetos do trabalho referente ao estágio e iniciações científicas.
 Eu amo o que faço e a engenharia me desafia a subir níveis todos os dias, me confrontando diariamente.
-- ⚡ Estudante de Engenharia de Sistemas (Unimontes)
+- ⚡  -- Python: Habilidades com Frameworks como Django, Flask, Selenium, Pandas, SkLearn, MatplotLib,Seaborn, Numpy, POO, implementando os conhecimentos na manipulação de programas orientados a objetos, sqls, testes automatizados, ciência de dados, CRUDS, algoritmos evolutivos, etc.
+      --  Machine Learning: Regressões Lineares, Classificações com SKLearn, além de participar de competições de Machine learning disponiveis pelo site da Kaggle:https://www.kaggle.com/code/ericlesmiller
+      --  FrontEnd: Html, Css, Angular, Bootstrap5,JavaScript,PHP
+      --  Linguagem C & C++: Algoritmos voltados a Estrutura de Dados como, structs, vetores,pilhas,filas, listas, árvores Binárias, Grafos, Criptografia, alg. de ordenação, manipulação de arquivos, etc.
+      --  SQL : Criação, consultas com Banco de dados relacionais como, Oracle, Mysql, MariaDB.
+      --  DataScienc: Consulta, pesquisas e visualização de dados com python, através de tabelas de BD, arquivos CSVs, Excel,Html para aplicar em ciência de dados e modelos de Machine Learning
 
  <div>
   <a href="https://github.com/Ericles-Miller">
@@ -23,7 +28,7 @@ Eu amo o que faço e a engenharia me desafia a subir níveis todos os dias, me c
  
   <!--<img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">-->
   
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ 
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -31,9 +36,8 @@ Eu amo o que faço e a engenharia me desafia a subir níveis todos os dias, me c
   <img align="center" alt="django" heigth="60" width='70' src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img align="center" alt="django" heigth="60" width='70' src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img align="center" alt="django" heigth="60" width='70' src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="django" heigth="60" width='70' src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="django" heigth="60" width='70' src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img align="center" alt="django" heigth="85" width='95' src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+
   
   
 </div>
