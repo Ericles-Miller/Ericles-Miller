@@ -1,54 +1,33 @@
-### Fala devs, eu sou o Éricles Miller! 👋
+# 💫 About Me: Hey devs, I'm Éricles Miller! 👋
 
-
-
-- 🔭 Profissão: Estagiário na área de programação (front end, back and, developer)
-- 🌱 Estudando atualmente: DataScienc(área que desejo me especializar), Machine Learning e Algoritmos Evolutivos,PowerBi DataScience,lingua Inglesa além das disciplinas da faculdade
-- 👯 Linguagens mais familares: Python, C, JavaScript
-- 😄 Sobre: Sou técnico em informática e acadêmico de Engenharia de Sistemas na Universidade Estadual de Montes Claros (Unimontes). Possuo conhecimento em banco de dados, linguagens de programação, design gráfico, edições de fotos e vídeos, matemáticos e em circuitos elétricos. Além disso, tenho projetos e ideias já desenvolvidos em sala de aula por trabalhos acadêmicos, projetos do trabalho referente ao estágio e iniciações científicas.
-Eu amo o que faço e a engenharia me desafia a subir níveis todos os dias, me confrontando diariamente.
-- ⚡  -- Python: Habilidades com Frameworks como Django, Flask, Selenium, Pandas, SkLearn, MatplotLib,Seaborn, Numpy, POO, implementando os conhecimentos na manipulação de programas orientados a objetos, sqls, testes automatizados, ciência de dados, CRUDS, algoritmos evolutivos, etc.
-- ⚡ Machine Learning: Regressões Lineares, Classificações com SKLearn, além de participar de competições de Machine learning disponiveis pelo site da Kaggle:https://www.kaggle.com/code/ericlesmiller
+- 🔭 Profession: Intern in the programming area (front end, back and, developers)
+- 🌱 Currently studying: DataScienc (area I want to specialize in), Machine Learning and Evolutionary Algorithms, PowerBi DataScience, English language in addition to college subjects
+- 👯 Most familiar languages: Python, C, JavaScript
+- 😄 About: ​​I am a computer technician and Systems Engineering student at the State University of Montes Claros (Unimontes). I have knowledge in databases, programming languages, graphic design, photo and video editing, mathematics and electrical circuits. In addition, I have projects and ideas already completed in the classroom for academic work, internship reference work projects and scientific initiations.
+I love what I do and engineering challenges me to level up every day, challenging myself daily.
+- ⚡ -- Python: Skills with Frameworks such as Django, Flask, Selenium, Pandas, SkLearn, MatplotLib, Seaborn, Numpy, OOP, implementing knowledge in manipulating object-oriented programs, sqls, instructed tests, data science, CRUDS, evolutionary algorithms, etc.
+- ⚡ Machine Learning: Linear Regressions, Rankings with SKLearn, as well as participating in Machine Learning competitions available on the Kaggle website: https://www.kaggle.com/code/ericlesmiller
 - ⚡ FrontEnd: Html, Css, Angular, Bootstrap5,JavaScript,PHP
-- ⚡ Linguagem C & C++: Algoritmos voltados a Estrutura de Dados como, structs, vetores,pilhas,filas, listas, árvores Binárias, Grafos, Criptografia, alg. de ordenação, manipulação de arquivos, etc.
-- ⚡ SQL : Criação, consultas com Banco de dados relacionais como, Oracle, Mysql, MariaDB.
-- ⚡ DataScienc: Consulta, pesquisas e visualização de dados com python, através de tabelas de BD, arquivos CSVs, Excel,Html para aplicar em ciência de dados e modelos de Machine Learning
+- ⚡ C & C++ Language: Algorithms focused on Data Structures such as structs, vectors, stacks, queues, lists, Binary trees, Graphs, Cryptography, alg. sorting, file manipulation, etc.
+- ⚡ SQL: Creation, queries with relational databases such as Oracle, Mysql, MariaDB.
+- ⚡ DataScienc: Query, research and data visualization with python, through DB tables, CSV files, Excel, Html to apply in data science and Machine Learning models
 
- <div>
-  <a href="https://github.com/Ericles-Miller">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ericles-Miller&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericles-Miller&layout=compact&langs_count=16&theme=cobalt"/>
-</div>
-
-<div style="display: inline_block"><br>
- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
-
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
- 
-  <!--<img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">-->
-  
- 
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="django" heigth="60" width='70' src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img align="center" alt="django" heigth="60" width='70' src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img align="center" alt="django" heigth="60" width='70' src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="django" heigth="60" width='70' src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-
-  
-  
-</div>
-  
+## 🌐 Socials:
 ##  
 <div> 
   <a href="https://instagram.com/ericlesmiller.diasbarbosa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/85dbpvHg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "ericlesmiller.eng.sis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ericles-miller" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  <!--![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
- 
-</div
+</div>
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ericles-Miller&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ericles-Miller&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericles-Miller&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ericles-Miller&theme=nord&no-frame=false&no-bg=false&margin-w=4)
+
