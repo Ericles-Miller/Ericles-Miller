@@ -1,6 +1,6 @@
 # 💫 About Me: Hey devs, I'm Éricles Miller! 👋
 
-- 🔭 Profession: Intern in the programming area (backend developer)
+- 🔭 Profession: Intern in the programming area (backend developer) -- my profersional git https://github.com/EriclesMillerEstudioHaus
 - 🌱 Currently studying: Backend developer (area I want to specialize in), API-Rest Algorithms, English language in addition to college subjects
 - 👯 Most familiar languages: Python, Typescript, JavaScript, React
 - 😄 About: I am a technology enthusiast with a technical background in Informatics from IFNMG and currently studying Systems Engineering at Unimontes. My journey in the Information Technology field started at the age of 16, when I wrote my first line of code, and since then, my passion for this field has only grown.
