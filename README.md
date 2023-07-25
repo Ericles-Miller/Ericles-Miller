@@ -1,17 +1,22 @@
 # 💫 About Me: Hey devs, I'm Éricles Miller! 👋
 
 - 🔭 Profession: Intern in the programming area (front end, back and, developers)
-- 🌱 Currently studying: DataScienc (area I want to specialize in), Machine Learning and Evolutionary Algorithms, PowerBi DataScience, English language in addition to college subjects
-- 👯 Most familiar languages: Python, C, JavaScript
-- 😄 About: ​​I am a computer technician and Systems Engineering student at the State University of Montes Claros (Unimontes). I have knowledge in databases, programming languages, graphic design, photo and video editing, mathematics and electrical circuits. In addition, I have projects and ideas already completed in the classroom for academic work, internship reference work projects and scientific initiations.
-I love what I do and engineering challenges me to level up every day, challenging myself daily.
-- ⚡ -- Python: Skills with Frameworks such as Django, Flask, Selenium, Pandas, SkLearn, MatplotLib, Seaborn, Numpy, OOP, implementing knowledge in manipulating object-oriented programs, sqls, instructed tests, data science, CRUDS, evolutionary algorithms, etc.
+- 🌱 Currently studying: Backend developer (area I want to specialize in), API-Rest Algorithms, English language in addition to college subjects
+- 👯 Most familiar languages: Python, Typescript, JavaScript, React
+- 😄 About: I am a technology enthusiast with a technical background in Informatics from IFNMG and currently studying Systems Engineering at Unimontes. My journey in the Information Technology field started at the age of 16, when I wrote my first line of code, and since then, my passion for this field has only grown.
+The pursuit of knowledge is my main motivation, as I believe it has the power to transform lives and open doors to a promising future. In this sense, I am always looking for new opportunities to improve my skills and competencies.
+My recent experience has been focused on backend development using Node.js technology, where I was able to apply my database knowledge, both relational and non-relational, to create efficient and scalable solutions.
+I have a proactive approach to challenges, always looking for innovative and creative solutions to problems that arise on a daily basis. I believe that collaboration and the exchange of knowledge are essential for personal and professional growth, so I am always open to teamwork and sharing lessons learned.
+I am excited and prepared to face new challenges and seek opportunities that allow me to continue improving my skills in the technology field. Whether on challenging projects or in environments that encourage continuous learning, I am determined to contribute and make a difference.
+If you are looking for a committed professional, passionate about technology and thirsty for knowledge, I am ready to embark on this journey together with your team. Let's build an innovative future full of possibilities!
+- ⚡ Python: Skills with Frameworks such as Django, Flask, Selenium, Pandas, SkLearn, MatplotLib, Seaborn, Numpy, OOP, implementing knowledge in manipulating object-oriented programs, sqls, instructed tests, data science, CRUDS, evolutionary algorithms, etc.
 - ⚡ Machine Learning: Linear Regressions, Rankings with SKLearn, as well as participating in Machine Learning competitions available on the Kaggle website: https://www.kaggle.com/code/ericlesmiller
-- ⚡ FrontEnd: Html, Css, Angular, Bootstrap5,JavaScript,PHP
-- ⚡ C & C++ Language: Algorithms focused on Data Structures such as structs, vectors, stacks, queues, lists, Binary trees, Graphs, Cryptography, alg. sorting, file manipulation, etc.
-- ⚡ SQL: Creation, queries with relational databases such as Oracle, Mysql, MariaDB.
+- ⚡ FrontEnd: Html, Css, Angular, Bootstrap5, JavaScript,React.
+- ⚡ C & C# Language: Algorithms focused on Data Structures such as structs, vectors, stacks, queues, lists, Binary trees, Graphs, Cryptography, alg. sorting, file manipulation, etc.
+- ⚡ SQL: Creation, queries with relational databases such as Mysql, MariaDB, Postgres, SqlServer.
+- ⚡ NoSql: MongoDb, firebase.
 - ⚡ DataScienc: Query, research and data visualization with python, through DB tables, CSV files, Excel, Html to apply in data science and Machine Learning models
-
+- ⚡ NodeJs: TypeScript, skills with Frameworks express, NestJs, Swagger, CRUD, API-Rest, TDD, Solid, object oriented programming(OOP),stream, AWS, backgrounds Jobs, refresh-tokens, middles
 ## 🌐 Socials:
 ##  
 <div> 
