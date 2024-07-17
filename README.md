@@ -10,7 +10,11 @@
 - ⚡ DevOps
 - ⚡ English
   
-## 👯 Most familiar languages: Javascript, Typescript, C#, Reactjs
+## 👯 Most familiar languages
+- ⚡ Javascript
+- ⚡ Typescript
+- ⚡ C#
+- ⚡ Reactjs
   
 ## 😄 About
 I have been working in software engineering for approximately four years, working both as a freelancer or in a startup. During this period, I had the opportunity to develop software for large companies, such as Novo Nordisk, Gerdau and Aperam Aço Verde, among others. I master several technologies, including NodeJs, Javascript, Reactjs, AspNet, Typescript, Relational and non-relational data and I have experience in Software Engineering, Backend and Frontend. Over the years, I have been continually improving my knowledge in the area, focusing on software engineering, software architecture, software designer. I'm always looking for new challenges and opportunities to apply and expand my skills.
@@ -19,8 +23,8 @@ I have been working in software engineering for approximately four years, workin
 - ⚡ SQL: Creation, queries with relational databases such as Mysql, Postgres, SqlServer.
 - ⚡ NoSql: MongoDb, Firebase, DynamoDB.
 - ⚡ AspNet: .NET developer with experience in developing APIs, console applications and ASP.NET using clean architecture, queues, lists, Binary trees, Graphs, Cryptography, alg. sorting, file manipulation, etc.
-- ⚡ NodeJs: Create and maintain APIs (Application Programming Interfaces) to enable communication between the frontend and the backend using clean architecture, queues, messaging, Graphs, Cryptography, alg. sorting, file manipulation, etc
-- ⚡ Devops: docker, docker-compose, git actions, Azure, Aws
+- ⚡ NodeJs: Create and maintain APIs (Application Programming Interfaces) to enable communication between the frontend and the backend using clean architecture, queues, messaging, Graphs, Cryptography, alg. sorting, file manipulation, etc.
+- ⚡ Devops: docker, docker-compose, git actions, Azure, Aws.
 
 ## 🌐 Socials:
 <div> 
