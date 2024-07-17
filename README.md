@@ -1,25 +1,28 @@
 # 💫 About Me: Hey devs, I'm Éricles Miller! 👋
 
-- 🔭 Profession: Intern in the programming area (backend developer) -- my profersional git https://github.com/EriclesMillerEstudioHaus
-- 🌱 Currently studying: Backend developer (area I want to specialize in), API-Rest Algorithms, English language in addition to college subjects
-- 👯 Most familiar languages: Python, Typescript, JavaScript, React
-- 😄 About: I am a technology enthusiast with a technical background in Informatics from IFNMG and currently studying Systems Engineering at Unimontes. My journey in the Information Technology field started at the age of 16, when I wrote my first line of code, and since then, my passion for this field has only grown.
-The pursuit of knowledge is my main motivation, as I believe it has the power to transform lives and open doors to a promising future. In this sense, I am always looking for new opportunities to improve my skills and competencies.
-My recent experience has been focused on backend development using Node.js technology, where I was able to apply my database knowledge, both relational and non-relational, to create efficient and scalable solutions.
-I have a proactive approach to challenges, always looking for innovative and creative solutions to problems that arise on a daily basis. I believe that collaboration and the exchange of knowledge are essential for personal and professional growth, so I am always open to teamwork and sharing lessons learned.
-I am excited and prepared to face new challenges and seek opportunities that allow me to continue improving my skills in the technology field. Whether on challenging projects or in environments that encourage continuous learning, I am determined to contribute and make a difference.
-If you are looking for a committed professional, passionate about technology and thirsty for knowledge, I am ready to embark on this journey together with your team. Let's build an innovative future full of possibilities!
-- ⚡ NodeJs: TypeScript, skills with Frameworks express, NestJs, Swagger, CRUD, API-Rest, TDD, Solid, object oriented programming(OOP),stream, AWS, backgrounds Jobs, refresh-tokens, middles, ethereal email, queues, babel, Jest, Electron, prisma Studio, typeorm, mongoose, seeds, eslint, prettierr.
-- ⚡ Python: Skills with Frameworks such as Django, Flask, Selenium, Pandas, SkLearn, MatplotLib, Seaborn, Numpy, OOP, implementing knowledge in manipulating object-oriented programs, sqls, instructed tests, data science, CRUDS, evolutionary algorithms, etc.
-- ⚡ FrontEnd: Html, Css, Angular, Bootstrap5, JavaScript,React.
-- ⚡ Machine Learning: Linear Regressions, Rankings with SKLearn, as well as participating in Machine Learning competitions available on the Kaggle website: https://www.kaggle.com/code/ericlesmiller
-- ⚡ SQL: Creation, queries with relational databases such as Mysql, MariaDB, Postgres, SqlServer.
-- ⚡ NoSql: MongoDb, Firebase.
-- ⚡ C & C# Language: Algorithms focused on Data Structures such as structs, vectors, stacks, queues, lists, Binary trees, Graphs, Cryptography, alg. sorting, file manipulation, etc.
-- ⚡ DataScienc: Query, research and data visualization with python, through DB tables, CSV files, Excel, Html to apply in data science and Machine Learning models.
-- ⚡ Infra: docker, docker-compose, git actions, Azure, Aws
+## 🔭 Profession: Software engineer
+- 🌱 studying constantly: S
+- ⚡ Software engineer 
+- ⚡ Nodejs
+- ⚡ Asp Net 
+- ⚡ Reactjs
+- ⚡ System Designer
+- ⚡ DevOps
+- ⚡ English
+  
+## 👯 Most familiar languages: Javascript, Typescript, C#, Reactjs
+  
+## 😄 About
+I have been working in software engineering for approximately four years, working both as a freelancer or in a startup. During this period, I had the opportunity to develop software for large companies, such as Novo Nordisk, Gerdau and Aperam Aço Verde, among others. I master several technologies, including NodeJs, Javascript, Reactjs, AspNet, Typescript, Relational and non-relational data and I have experience in Software Engineering, Backend and Frontend. Over the years, I have been continually improving my knowledge in the area, focusing on software engineering, software architecture, software designer. I'm always looking for new challenges and opportunities to apply and expand my skills.
+  
+- ⚡ FrontEnd: Html, Css, Reactjs, JavaScript, Typescript.
+- ⚡ SQL: Creation, queries with relational databases such as Mysql, Postgres, SqlServer.
+- ⚡ NoSql: MongoDb, Firebase, DynamoDB.
+- ⚡ AspNet: .NET developer with experience in developing APIs, console applications and ASP.NET using clean architecture, queues, lists, Binary trees, Graphs, Cryptography, alg. sorting, file manipulation, etc.
+- ⚡ NodeJs: Create and maintain APIs (Application Programming Interfaces) to enable communication between the frontend and the backend using clean architecture, queues, messaging, Graphs, Cryptography, alg. sorting, file manipulation, etc
+- ⚡ Devops: docker, docker-compose, git actions, Azure, Aws
+
 ## 🌐 Socials:
-##  
 <div> 
   <a href="https://instagram.com/ericlesmiller.diasbarbosa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/85dbpvHg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -28,12 +31,5 @@ If you are looking for a committed professional, passionate about technology and
 </div>
 
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ericles-Miller&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ericles-Miller&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericles-Miller&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ericles-Miller&theme=nord&no-frame=false&no-bg=false&margin-w=4)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 
