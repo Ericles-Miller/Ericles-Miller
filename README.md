@@ -1,7 +1,7 @@
 # 💫 About Me: Hey devs, I'm Éricles Miller! 👋
 
 ## 🔭 Profession: Software engineer
-- 🌱 studying constantly: S
+- 🌱 studying constantly: 
 - ⚡ Software engineer 
 - ⚡ Nodejs
 - ⚡ Asp Net 
