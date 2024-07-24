@@ -1,7 +1,6 @@
 # 💫 About Me: Hey devs, I'm Éricles Miller! 👋
 
-## 🔭 Profession: Software engineer
-- 🌱 studying constantly: 
+## 🌱 studying constantly: 
 - ⚡ Software engineer 
 - ⚡ Nodejs
 - ⚡ Asp Net 
@@ -15,6 +14,8 @@
 - ⚡ Typescript
 - ⚡ C#
 - ⚡ Reactjs
+
+## 🔭 Profession: Software engineer
   
 ## 😄 About
 I have been working in software engineering for approximately four years, working both as a freelancer or in a startup. During this period, I had the opportunity to develop software for large companies, such as Novo Nordisk, Gerdau and Aperam Aço Verde, among others. I master several technologies, including NodeJs, Javascript, Reactjs, AspNet, Typescript, Relational and non-relational data and I have experience in Software Engineering, Backend and Frontend. Over the years, I have been continually improving my knowledge in the area, focusing on software engineering, software architecture, software designer. I'm always looking for new challenges and opportunities to apply and expand my skills.
