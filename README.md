@@ -3,7 +3,7 @@
 ## 🌱 studying constantly: 
 - ⚡ Software engineer 
 - ⚡ Nodejs
-- ⚡ Asp Net 
+- ⚡ AWS
 - ⚡ Golang
 - ⚡ System Designer
 - ⚡ DevOps
